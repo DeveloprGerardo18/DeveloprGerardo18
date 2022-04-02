@@ -1,3 +1,4 @@
+<!DOCTYPE description xd>
 - 👋 Hi, I’m @DeveloprGerardo18
 - 👀 I’m interested in Programing code
 - 🌱 I’m currently learning New Programing codes and Languages
